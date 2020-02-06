@@ -212,8 +212,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="58" />
-    <option name="y" value="82" />
+    <option name="x" value="78" />
+    <option name="y" value="80" />
     <option name="width" value="1550" />
     <option name="height" value="847" />
   </component>
@@ -303,7 +303,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581000664809" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581000850838" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -317,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoggingResponseValues.test004">
+  <component name="RunManager" selected="TestNG.LoggingResponseValues.test003">
     <configuration name="LoggingRequestValues.test005" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassured" />
       <extension name="coverage">
@@ -415,8 +415,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoggingResponseValues.test004" />
         <item itemvalue="TestNG.LoggingResponseValues.test003" />
+        <item itemvalue="TestNG.LoggingResponseValues.test004" />
         <item itemvalue="TestNG.LoggingResponseValues.test002" />
         <item itemvalue="TestNG.LoggingResponseValues" />
         <item itemvalue="TestNG.LoggingRequestValues.test005" />
