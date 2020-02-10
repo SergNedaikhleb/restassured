@@ -8,8 +8,9 @@ public class FileUploadExample {
 
     @Test
     public void uploadFileExample() {
+        // Upload a file to zamzar.com and convert it into a PDF file
 
-        String apiKey = "7873677966f8cc4238a9c7094d2b39e87bcf434b";
+        String apiKey = "GiVUYsF4A8ssq93FR48H";
         String endPoint = "https://sandbox.zamzar.com/v1/jobs";
 
         File inputFile = new File(System.getProperty("user.dir")+File.separator+"testTxtFile.txt");
@@ -18,7 +19,7 @@ public class FileUploadExample {
         given()
                 .auth().basic(apiKey, "")
                 .multiPart("source_file", inputFile)
-                .multiPart("target_format", "txt")
+                .multiPart("target_format", "pdf")
                 .when().post(endPoint)
         .then()
             .log()
