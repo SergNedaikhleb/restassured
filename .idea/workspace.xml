@@ -33,13 +33,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="16135" />
+          <entry key="java" value="16192" />
           <entry key="xml" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16135" />
+          <entry key="JAVA" value="16192" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="69" />
         </counts>
@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="-13">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -246,8 +246,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="151" />
-    <option name="y" value="43" />
+    <option name="x" value="150" />
+    <option name="y" value="28" />
     <option name="width" value="1491" />
     <option name="height" value="917" />
   </component>
@@ -308,7 +308,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581696339025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581696362257" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -453,12 +453,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BaseClass - 2020.02.11 at 17h 20m 12s.xml">
-      <configuration name="BaseClass" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BaseClass - 2020.02.11 at 17h 20m 43s.xml">
-      <configuration name="BaseClass" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BaseClass - 2020.02.11 at 17h 20m 55s.xml">
       <configuration name="BaseClass" configurationId="TestNG" />
     </history-entry>
@@ -483,10 +477,15 @@
     <history-entry file="TwitterTest - 2020.02.14 at 18h 02m 32s.xml">
       <configuration name="TwitterTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TwitterTest_getTweet - 2020.02.14 at 18h 05m 21s.xml">
+      <configuration name="TwitterTest.getTweet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2020.02.14 at 18h 05m 46s.xml">
+      <configuration name="TwitterTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="151" y="43" width="1491" height="917" extended-state="0" />
-    <editor active="true" />
+    <frame x="150" y="28" width="1491" height="917" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24598183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -497,12 +496,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4559387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4559387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30395913" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30395913" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.325" />
@@ -832,8 +831,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-13">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
