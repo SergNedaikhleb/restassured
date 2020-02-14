@@ -1,6 +1,5 @@
 package com.tests;
 
-import com.jayway.restassured.RestAssured;
 import com.jayway.restassured.http.ContentType;
 import com.student.base.TestBase;
 import com.student.model.Student;
