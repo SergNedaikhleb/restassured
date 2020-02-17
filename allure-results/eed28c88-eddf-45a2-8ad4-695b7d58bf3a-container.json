@@ -1,0 +1,1 @@
+{"uuid":"eed28c88-eddf-45a2-8ad4-695b7d58bf3a","name":"com.tests.StudentDeleteTest","children":["219e7032-fdff-4a7e-8d79-10b5703716de"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1581942499031,"stop":1581942500072}],"afters":[],"links":[],"start":1581942498677,"stop":1581942514351}

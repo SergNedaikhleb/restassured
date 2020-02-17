@@ -1,0 +1,1 @@
+{"uuid":"b53a42e6-4539-4162-99cd-4ad3506daef1","name":"com.tests.StudentPatchTest","children":["23909935-90db-4858-aae3-d6cbed53f664"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1581942660880,"stop":1581942660880}],"afters":[],"links":[],"start":1581942649142,"stop":1581942665627}

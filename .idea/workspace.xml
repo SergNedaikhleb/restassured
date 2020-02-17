@@ -4,7 +4,7 @@
     <list default="true" id="51d7e167-7841-41da-8706-24b507691de2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/assertions/examples/AssertionsExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/assertions/examples/AssertionsExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twitter/example/TwitterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twitter/example/TwitterTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,36 +18,39 @@
     <session id="346245474">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="16192" />
-          <entry key="xml" value="69" />
+          <entry key="java" value="19168" />
+          <entry key="property" value="110" />
+          <entry key="xml" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16192" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="69" />
+          <entry key="JAVA" value="19168" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="XML" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="88" />
+          <entry key="java" value="96" />
+          <entry key="property" value="1" />
           <entry key="txt" value="4" />
           <entry key="xml" value="6" />
         </counts>
@@ -55,8 +58,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="88" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="96" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -65,10 +68,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/paypalexamples/tests/PostAsObject.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-776">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="102">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/MyFirstAllureTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/EpicFeatureStoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,91 +103,81 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/paypalexamples/payment/pojo/PostObj.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/CalculatorSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
               <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/MySimpleCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/example/proxy/ProxyExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/MyCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/jsonassert/JsonAssertExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/allure.property">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/softassert/SoftAssertionsExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FormAuthExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FromAuthWithCsrf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -233,8 +249,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/paypalexamples/tests/PostAsObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/paypalexamples/payment/pojo/Items.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/assertions/examples/AssertionsExamples.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FormAuthExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/restassured/examples/jsoup/JsoupExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FromAuthWithCsrf.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/app/MySimpleCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/allure.property" />
+        <option value="$PROJECT_DIR$/src/test/java/allureexamples/MyCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/allureexamples/MyFirstAllureTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/allureexamples/CalculatorSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/allureexamples/EpicFeatureStoryTest.java" />
       </list>
     </option>
   </component>
@@ -246,10 +271,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
-    <option name="y" value="28" />
-    <option name="width" value="1491" />
-    <option name="height" value="917" />
+    <option name="x" value="67" />
+    <option name="y" value="38" />
+    <option name="width" value="1421" />
+    <option name="height" value="899" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -273,6 +298,19 @@
               <item name="restassured" type="b2602c69:ProjectViewProjectNode" />
               <item name="restassured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restassured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restassured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restassured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restassured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,16 +326,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restassured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="allureexamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,19 +337,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581696362257" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581947730239" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docontract" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.paypalexamples.payment.pojo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nedajhleb\IdeaProjects\restassured" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.paypalexamples.payment.pojo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,18 +364,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TwitterTest">
-    <configuration name="AssertionsExamples.test002" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MyCalculatorTest">
+    <configuration name="FromAuthWithCsrf (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assertions.examples.*" />
+          <option name="PATTERN" value="com.restassured.examples.auth.springsecurity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.assertions.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.assertions.examples.AssertionsExamples" />
-      <option name="METHOD_NAME" value="test002" />
+      <option name="PACKAGE_NAME" value="com.restassured.examples.auth.springsecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.examples.auth.springsecurity.FromAuthWithCsrf" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FromAuthWithCsrf" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.examples.auth.springsecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.examples.auth.springsecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.examples.auth.springsecurity.FromAuthWithCsrf" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FromAuthWithCsrf.getAllStudents" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.examples.auth.springsecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.examples.auth.springsecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.examples.auth.springsecurity.FromAuthWithCsrf" />
+      <option name="METHOD_NAME" value="getAllStudents" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -354,67 +415,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.student.paypalexamples.base.*" />
+          <option name="PATTERN" value="allureexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.student.paypalexamples.base" />
-      <option name="MAIN_CLASS_NAME" value="com.student.paypalexamples.base.BaseClass" />
+      <option name="PACKAGE_NAME" value="allureexamples" />
+      <option name="MAIN_CLASS_NAME" value="allureexamples.MyCalculatorTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseClass.getToken" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MyFirstAllureTest.tc1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.student.paypalexamples.base.*" />
+          <option name="PATTERN" value="allureexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.student.paypalexamples.base" />
-      <option name="MAIN_CLASS_NAME" value="com.student.paypalexamples.base.BaseClass" />
-      <option name="METHOD_NAME" value="getToken" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwitterTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="restassured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.twitter.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.twitter.example" />
-      <option name="MAIN_CLASS_NAME" value="com.twitter.example.TwitterTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwitterTest.getTweet" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="restassured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.twitter.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.twitter.example" />
-      <option name="MAIN_CLASS_NAME" value="com.twitter.example.TwitterTest" />
-      <option name="METHOD_NAME" value="getTweet" />
+      <option name="PACKAGE_NAME" value="allureexamples" />
+      <option name="MAIN_CLASS_NAME" value="allureexamples.MyFirstAllureTest" />
+      <option name="METHOD_NAME" value="tc1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -423,19 +450,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.BaseClass" />
-      <item itemvalue="TestNG.BaseClass.getToken" />
-      <item itemvalue="TestNG.AssertionsExamples.test002" />
-      <item itemvalue="TestNG.TwitterTest" />
-      <item itemvalue="TestNG.TwitterTest.getTweet" />
+      <item itemvalue="TestNG.FromAuthWithCsrf" />
+      <item itemvalue="TestNG.FromAuthWithCsrf.getAllStudents" />
+      <item itemvalue="TestNG.FromAuthWithCsrf (1)" />
+      <item itemvalue="TestNG.MyFirstAllureTest.tc1" />
+      <item itemvalue="TestNG.MyCalculatorTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TwitterTest" />
-        <item itemvalue="TestNG.TwitterTest.getTweet" />
-        <item itemvalue="TestNG.AssertionsExamples.test002" />
-        <item itemvalue="TestNG.BaseClass.getToken" />
-        <item itemvalue="TestNG.BaseClass" />
+        <item itemvalue="TestNG.MyCalculatorTest" />
+        <item itemvalue="TestNG.MyFirstAllureTest.tc1" />
+        <item itemvalue="TestNG.FromAuthWithCsrf (1)" />
+        <item itemvalue="TestNG.FromAuthWithCsrf.getAllStudents" />
+        <item itemvalue="TestNG.FromAuthWithCsrf" />
       </list>
     </recent_temporary>
   </component>
@@ -453,41 +480,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BaseClass - 2020.02.11 at 17h 20m 55s.xml">
-      <configuration name="BaseClass" configurationId="TestNG" />
+    <history-entry file="JsoupExamples_extractingEmailInformation - 2020.02.17 at 12h 38m 00s.xml">
+      <configuration name="JsoupExamples.extractingEmailInformation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BaseClass_getToken - 2020.02.11 at 17h 23m 51s.xml">
-      <configuration name="BaseClass.getToken" configurationId="TestNG" />
+    <history-entry file="JsoupExamples_extractingEmailInformation - 2020.02.17 at 12h 39m 19s.xml">
+      <configuration name="JsoupExamples.extractingEmailInformation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BaseClass_getToken - 2020.02.11 at 17h 24m 03s.xml">
-      <configuration name="BaseClass.getToken" configurationId="TestNG" />
+    <history-entry file="JsoupExamples_extractingEmailInformation - 2020.02.17 at 12h 55m 38s.xml">
+      <configuration name="JsoupExamples.extractingEmailInformation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsExamples_test002 - 2020.02.13 at 13h 33m 26s.xml">
-      <configuration name="AssertionsExamples.test002" configurationId="TestNG" />
+    <history-entry file="JsoupExamples_extractingEmailInformation - 2020.02.17 at 12h 56m 26s.xml">
+      <configuration name="JsoupExamples.extractingEmailInformation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsExamples_test002 - 2020.02.13 at 13h 33m 39s.xml">
-      <configuration name="AssertionsExamples.test002" configurationId="TestNG" />
+    <history-entry file="JsoupExamples_extractingEmailInformation - 2020.02.17 at 12h 56m 40s.xml">
+      <configuration name="JsoupExamples.extractingEmailInformation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TwitterTest - 2020.02.14 at 17h 59m 18s.xml">
-      <configuration name="TwitterTest" configurationId="TestNG" />
+    <history-entry file="FromAuthWithCsrf - 2020.02.17 at 13h 16m 40s.xml">
+      <configuration name="FromAuthWithCsrf" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TwitterTest - 2020.02.14 at 18h 02m 04s.xml">
-      <configuration name="TwitterTest" configurationId="TestNG" />
+    <history-entry file="FromAuthWithCsrf_getAllStudents - 2020.02.17 at 13h 18m 04s.xml">
+      <configuration name="FromAuthWithCsrf.getAllStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TwitterTest - 2020.02.14 at 18h 02m 32s.xml">
-      <configuration name="TwitterTest" configurationId="TestNG" />
+    <history-entry file="FromAuthWithCsrf_(1) - 2020.02.17 at 13h 32m 25s.xml">
+      <configuration name="FromAuthWithCsrf (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TwitterTest_getTweet - 2020.02.14 at 18h 05m 21s.xml">
-      <configuration name="TwitterTest.getTweet" configurationId="TestNG" />
+    <history-entry file="MyFirstAllureTest_tc1 - 2020.02.17 at 14h 00m 50s.xml">
+      <configuration name="MyFirstAllureTest.tc1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TwitterTest - 2020.02.14 at 18h 05m 46s.xml">
-      <configuration name="TwitterTest" configurationId="TestNG" />
+    <history-entry file="MyCalculatorTest - 2020.02.17 at 15h 00m 39s.xml">
+      <configuration name="MyCalculatorTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="28" width="1491" height="917" extended-state="0" />
+    <frame x="67" y="38" width="1421" height="899" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24598183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.191036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -496,13 +524,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4559387" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930266" visible="true" weight="0.275817" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30395913" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3150327" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5006974" side_tool="true" weight="0.32170543" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.325" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -519,21 +547,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/com/students/loggingexample/LoggingRequestValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/jayway/restassured/json-path/2.9.0/json-path-2.9.0.jar!/com/jayway/restassured/internal/path/json/ConfigurableJsonSlurper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/assertions/examples.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xmlpath/examples/SearchXMLPathExamples.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -751,23 +764,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/student/model/Student.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/paypalexamples/tests/PostAsObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -800,6 +810,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/jsoup/JsoupExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2606#2614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -807,15 +835,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/student/model/Student.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FormAuthExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165" />
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/paypalexamples/tests/PostAsObject.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/restassured/examples/auth/springsecurity/FromAuthWithCsrf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-776">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="259">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -824,15 +857,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+        <state relative-caret-position="102">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/twitter/example/TwitterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/allure.property">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/MyCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MySimpleCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/MyFirstAllureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/CalculatorSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/allureexamples/EpicFeatureStoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -916,7 +1012,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.41954023" />
               </list>
             </option>
           </splitter-proportions>

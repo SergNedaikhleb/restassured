@@ -1,0 +1,1 @@
+{"uuid":"7ea3526d-197a-4494-ae78-1371dc255d7a","name":"com.tests.StudentPostTest","children":["ef53a21c-5d24-4ccd-a3c9-5a12cbc7e92f"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1581942512154,"stop":1581942512154}],"afters":[],"links":[],"start":1581942498677,"stop":1581942514362}
